@@ -1,7 +1,9 @@
 # Covid-19-Data-Analysis
 Part 1 of Coronavirus Data-Analysis with Live Data Streaming from the Website and Made a DASH Web-App at Last.
 
-# Part-2 Uploaded Next Week Sunday.
+# Final Part is Also Uploaded.
+
+We Learn and Grow Together.
 
 Follow Us On -
 
