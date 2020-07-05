@@ -1,7 +1,7 @@
 # Covid-19-Data-Analysis
 Coronavirus or Covid-19 Data Analysis in Python using Dash-Web App and Data Visualisation, that brings out the insightfull data about the cases and increase in cases per day.
 
-![screenshot](coronavirus.png)
+![screenshot](Part_2_2.png)
 
 ## Part 1 of Coronavirus Data-Analysis
 1. Live Data Extraction or Streaming
